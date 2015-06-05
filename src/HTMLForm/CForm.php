@@ -1,6 +1,6 @@
 <?php
 
-namespace conat\HTMLForm;
+namespace donami\HTMLForm;
 
 /**
  * A utility class to easy creating and handling of forms
